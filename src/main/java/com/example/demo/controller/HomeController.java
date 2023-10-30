@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-//Tat ca cac lop controller deu phai tao o package controller va co tu khoa @Controller
+//Tat ca cac lop controller deu phai tao o package controller va co tu khoa @Controllerff
 @Controller
 //Tất cả request <==> url/link localhost:8080/ Đều được control này nắm và xử lý
 //Request: get/post/update.delete/put...
